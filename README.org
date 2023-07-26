@@ -1,0 +1,10 @@
+* cl-abnf
+
+ABNF Parser Generator, per RFC2234
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dimitri/cl-abnf.git   |
+| commit  | ba1fbb1  |
+| systems | cl-abnf |
+|---------+-------------------------------------------|
+
